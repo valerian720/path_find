@@ -1,0 +1,6 @@
+C:\Users\п\Desktop\программирование 2019 весна\C#\лабиринт\getFastestWay\getFastestWay\bin\Debug\getFastestWay.exe.config
+C:\Users\п\Desktop\программирование 2019 весна\C#\лабиринт\getFastestWay\getFastestWay\bin\Debug\getFastestWay.exe
+C:\Users\п\Desktop\программирование 2019 весна\C#\лабиринт\getFastestWay\getFastestWay\bin\Debug\getFastestWay.pdb
+C:\Users\п\Desktop\программирование 2019 весна\C#\лабиринт\getFastestWay\getFastestWay\obj\Debug\getFastestWay.csprojResolveAssemblyReference.cache
+C:\Users\п\Desktop\программирование 2019 весна\C#\лабиринт\getFastestWay\getFastestWay\obj\Debug\getFastestWay.exe
+C:\Users\п\Desktop\программирование 2019 весна\C#\лабиринт\getFastestWay\getFastestWay\obj\Debug\getFastestWay.pdb

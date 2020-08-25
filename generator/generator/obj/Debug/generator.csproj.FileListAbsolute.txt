@@ -1,0 +1,6 @@
+C:\Users\п\Desktop\программирование 2019 весна\C#\лабиринт\generator\generator\bin\Debug\generator.exe.config
+C:\Users\п\Desktop\программирование 2019 весна\C#\лабиринт\generator\generator\bin\Debug\generator.exe
+C:\Users\п\Desktop\программирование 2019 весна\C#\лабиринт\generator\generator\bin\Debug\generator.pdb
+C:\Users\п\Desktop\программирование 2019 весна\C#\лабиринт\generator\generator\obj\Debug\generator.csprojResolveAssemblyReference.cache
+C:\Users\п\Desktop\программирование 2019 весна\C#\лабиринт\generator\generator\obj\Debug\generator.exe
+C:\Users\п\Desktop\программирование 2019 весна\C#\лабиринт\generator\generator\obj\Debug\generator.pdb
